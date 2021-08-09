@@ -23,8 +23,8 @@ $Post \subset Test$</description>
       
       <guid>http://pierwill.com/about/</guid>
       <description>My name is Will Pierce. I work as a technical writer and researcher, especially in the area information security.
-I&amp;rsquo;ve contributed documentation and code to open source projects including:
- SecureDrop, Qubes OS signal-protocol, OpenOversight, Flux, and the Rust langauge.  Before working in technology, I did doctoral research in English literature at Northwestern University, working on a dissertation about surveillance and theology in Elizabethan England.</description>
+I&amp;rsquo;ve contributed documentation and code to open source projects including SecureDrop, Qubes OS, signal-protocol, OpenOversight, Flux, and the Rust langauge.
+Before working in technology, I did doctoral research in English literature at Northwestern University, working on a dissertation about surveillance and theology in Elizabethan England.</description>
     </item>
     
   </channel>
