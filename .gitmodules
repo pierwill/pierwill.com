@@ -1,6 +1,0 @@
-[submodule "themes/minima"]
-	path = themes/minima
-	url = https://github.com/mivinci/hugo-theme-minima.git
-[submodule "themes/hugo-tufte"]
-	path = themes/hugo-tufte
-	url = https://github.com/slashformotion/hugo-tufte

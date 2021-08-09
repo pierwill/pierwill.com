@@ -2,7 +2,7 @@
 theme = "hugo-tufte"
 languageCode = "en-us"
 # The url of your website
-baseurl = "http://pierwill.com/blog"
+baseurl = "http://pierwill.com/"
 # The title of your website (shown on all the pages)
 title = "pierwill.com"
 
@@ -42,12 +42,12 @@ katex = false
 #   weight = -100
 #   identifier = "posts"
 #   url = "/post"
-# [[menu.nav]]
-#   name = "Categories"
-#   pre = "<i class='fas fa-tags fa-lg'></i> "
-#   weight = -90
-#   identifier = "categories"
-#   url = "/categories"
+[[menu.nav]]
+  name = "Categories"
+  pre = "<i class='fas fa-tags fa-lg'></i> "
+  weight = -90
+  identifier = "categories"
+  url = "/categories"
 [[menu.nav]]
   name = "About"
   pre = "<i class='fas fa-info-circle  fa-lg'></i> "

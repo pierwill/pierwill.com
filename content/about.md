@@ -5,10 +5,10 @@ title = "About"
 My name is Will Pierce.
 I work as a technical writer and researcher, especially in the area information security.
 
-I've contributed documentation and code to open source projects, including:
+I've contributed documentation and code to open source projects including:
 
-- [Qubes OS](https://qubes-os.org)
 - [SecureDrop](https://github.com/freedomofpress/securedrop),
+- [Qubes OS](https://qubes-os.org)
 - [`signal-protocol`](https://github.com/freedomofpress/signal-protocol),
 - [OpenOversight](https://github.com/lucyparsons/OpenOversight),
 - [Flux](https://github.com/influxdata/flux), and
