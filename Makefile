@@ -2,7 +2,7 @@ default: build
 
 .PHONY: dev
 dev:  ## Run in dev mode
-	hugo serve
+	hugo server --port 3000
 
 .PHONY: build
 build: ## Build the site
